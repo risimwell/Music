@@ -1,0 +1,104 @@
+body{
+    background: #000;
+}
+
+main{
+    margin: 0 auto;
+    width: 1024px ;
+    background: #ffffff;
+    
+}
+
+header{
+    background:url(../images/angel-jimenez.jpg);
+    background-size: cover;
+    height: 550px;
+    padding: 30px;
+    margin: 20;
+}
+
+footer{
+    background: #ec2d53;
+}
+
+.guitarra{
+    background:url(../images/john-raptis.png);
+    background-size: cover;
+    height: 367px;
+}
+.letras{
+    width: 366px;
+}
+
+.pop{
+    width: 534px;
+    float: right;
+    padding: 60px;
+}
+.name{
+    width: 241px;
+    float: right;
+    padding: 5px;
+}
+.your{
+    width: 50%;
+    float: left;
+    padding: 24px;
+}
+.wer{
+    padding: 5px;
+}
+.lop{
+    float: right;
+    width: 427px;
+   
+}
+.left{
+    width: 366px;
+    float: left;
+}
+.pei{
+    float: left;
+    width: 427px;
+}
+.clear{
+    clear: both;
+}
+.der{
+    width: 366px;
+    float: right;
+}
+table{
+    width: 100%;
+}
+.color{
+    color:#FA4A54;
+    padding: px;
+}
+.boton{
+    color:#FA4A54;
+}
+h1{
+    font-size: 89px;
+}
+
+.log{
+    width: 100%;
+}
+
+@media (max-width:600px)
+
+    {
+    main{
+    width: 100%;
+    height: 100%;
+
+    
+
+
+  }
+}
+
+
+
+
